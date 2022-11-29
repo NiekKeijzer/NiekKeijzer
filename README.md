@@ -3,6 +3,7 @@
 <details>
 	<summary>GPG Public key</summary>
 
+<pre>
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQINBGOFtb8BEADjANOT6h5SPa/Ur+uB5pP1axmkRfXQk6jvcxvwxQatzOe94rr3
@@ -55,6 +56,7 @@ T7z2FlInVqCKS9Kd3PIHVg7TUwn5R8e1v+0heiY5cYiySRFpGWjyHzvoXVLVaTFR
 iU78
 =oHic
 -----END PGP PUBLIC KEY BLOCK-----
+</pre>
 </details>
 
 <!--
